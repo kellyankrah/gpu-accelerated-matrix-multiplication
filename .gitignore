@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+.env
+.venv
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS & misc
+.DS_Store
+.ipynb_checkpoints/
+
+# Artifacts
+artifacts/
